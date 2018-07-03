@@ -12,4 +12,4 @@ Repository to hold all work associated with the first Metis Project (Benson)
 8. Further filter top 10 stations to top 5 stations based on ancillary data
 9. Provide a recommendations that detail 5 stations for the street team to hit on specific DOWs and TODs
 10. Create slides and determine presentation logistics
-11. Push our final repo to 'student submissions/projects/project_benson'
+11. Push our final repo to 'student submissions/projects/project_benson' - create a branch with and then push request
