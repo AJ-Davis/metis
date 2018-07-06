@@ -13,3 +13,10 @@ Repository to hold all work associated with the first Metis Project (Benson)
 9. Provide a recommendations that detail 5 stations for the street team to hit on specific DOWs and TODs
 10. Create slides and determine presentation logistics
 11. Push our final repo to 'student submissions/projects/project_benson' - create a branch with and then push request
+
+## Remaining Tasks:
+1. Merge the MTA data with ancillary data
+2. Develop scoring algorithm
+3. Graphics
+4. Finish powerpoint
+5. Fix missing geocodes
