@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE codeBook
+SYSTEM "http://www.icpsr.umich.edu/files/DDI/Version2-1.dtd">
+<codeBook>
+  <docDscr>
+    <citation>
+      <titlStmt>
+        <titl>Metadata record for National Survey on Drug Use and Health, 2015</titl>
+        <IDNo agency="ICPSR">50011</IDNo>
+      </titlStmt>
+      <prodStmt>
+        <producer abbr="ICPSR">Inter-university Consortium for Political and Social Research</producer>
+        <copyright>ICPSR metadata records are licensed under a Creative Commons Attribution-Noncommercial 3.0 United States License.</copyright>
+      </prodStmt>
+      <verStmt>
+        <version date="2016-04-15">2016-04-15</version>
+      </verStmt>
+      <holdings URI="http://www.icpsr.umich.edu/icpsrweb/ICPSR/ddi25/50011"/>
+    </citation>
+  </docDscr>
+  <stdyDscr>
+    <citation>
+      <titlStmt>
+        <titl>National Survey on Drug Use and Health, 2015</titl>
+        <altTitl>NSDUH 2015</altTitl>
+        <IDNo agency="ICPSR">50011</IDNo>
+        <IDNo agency="dara">10.3886/ICPSR50011.v1</IDNo>
+      </titlStmt>
+      <rspStmt>
+        <AuthEnty>United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality</AuthEnty>
+      </rspStmt>
+      <prodStmt>
+        <producer>Please see full citation.</producer>
+        <fundAg>United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality</fundAg>
+      </prodStmt>
+      <distStmt>
+        <distrbtr>Ann Arbor, MI: Inter-university Consortium for Political and Social Research</distrbtr>
+        <distDate date="2016-11-18">2016-11-18</distDate>
+      </distStmt>
+      <serStmt>
+        <serName ID="Series64">National Survey on Drug Use and Health (NSDUH) Series</serName>
+      </serStmt>
+      <biblCit>United States Department of Health and Human Services. Substance Abuse and Mental Health Services Administration. Center for Behavioral Health Statistics and Quality. National Survey on Drug Use and Health, 2015. ICPSR50011-v1. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2016-03-22. http://doi.org/10.3886/ICPSR50011.v1</biblCit>
+      <holdings>http://doi.org/10.3886/ICPSR50011.v1</holdings>
+    </citation>
+    <stdyInfo>
+      <subject>
+        <keyword vocab="thesaurus">addiction</keyword>
+        <keyword vocab="thesaurus">alcohol</keyword>
+        <keyword vocab="thesaurus">alcohol abuse</keyword>
+        <keyword vocab="thesaurus">alcohol consumption</keyword>
+        <keyword vocab="thesaurus">amphetamines</keyword>
+        <keyword vocab="thesaurus">barbiturates</keyword>
+        <keyword vocab="thesaurus">cocaine</keyword>
+        <keyword vocab="thesaurus">controlled drugs</keyword>
+        <keyword vocab="thesaurus">crack cocaine</keyword>
+        <keyword vocab="thesaurus">demographic characteristics</keyword>
+        <keyword vocab="thesaurus">depression (psychology)</keyword>
+        <keyword vocab="thesaurus">drinking behavior</keyword>
+        <keyword vocab="thesaurus">drug abuse</keyword>
+        <keyword vocab="thesaurus">drug dependence</keyword>
+        <keyword vocab="thesaurus">drug treatment</keyword>
+        <keyword vocab="thesaurus">drug use</keyword>
+        <keyword vocab="thesaurus">drugs</keyword>
+        <keyword vocab="thesaurus">employment</keyword>
+        <keyword vocab="thesaurus">hallucinogens</keyword>
+        <keyword vocab="thesaurus">health care</keyword>
+        <keyword vocab="thesaurus">heroin</keyword>
+        <keyword vocab="thesaurus">households</keyword>
+        <keyword vocab="thesaurus">income</keyword>
+        <keyword vocab="thesaurus">inhalants</keyword>
+        <keyword vocab="thesaurus">marijuana</keyword>
+        <keyword vocab="thesaurus">mental health</keyword>
+        <keyword vocab="thesaurus">mental health services</keyword>
+        <keyword vocab="thesaurus">methamphetamine</keyword>
+        <keyword vocab="thesaurus">pregnancy</keyword>
+        <keyword vocab="thesaurus">prescription drugs</keyword>
+        <keyword vocab="thesaurus">sedatives</keyword>
+        <keyword vocab="thesaurus">smoking</keyword>
+        <keyword vocab="thesaurus">stimulants</keyword>
+        <keyword vocab="thesaurus">substance abuse</keyword>
+        <keyword vocab="thesaurus">substance abuse treatment</keyword>
+        <keyword vocab="thesaurus">tobacco use</keyword>
+        <keyword vocab="thesaurus">tranquilizers</keyword>
+        <keyword vocab="thesaurus">youths</keyword>
+        <topcClas source="archive" vocab="RCMD subject classifications">RCMD I. Crime</topcClas>
+        <topcClas source="archive" vocab="ICPSR subject classifications">ICPSR XVII.E. Social Institutions and Behavior, Crime and the Criminal Justice System</topcClas>
+        <topcClas source="archive" vocab="DSDR subject classifications">DSDR III. Health and Mortality</topcClas>
+        <topcClas source="archive" vocab="NAHDAP subject classifications">NAHDAP I. National Addiction and HIV Data Archive Program</topcClas>
+        <topcClas source="archive" vocab="NACJD subject classifications">NACJD XI. Drugs, Alcohol, and Crime</topcClas>
+        <topcClas source="archive" vocab="RCMD subject classifications">RCMD V. Health and Well-Being</topcClas>
+      </subject>
+      <abstract>The National Survey on Drug Use and Health (NSDUH) series (formerly titled National Household Survey on Drug Abuse) primarily measures the prevalence and
+    correlates of drug use in the United States. The surveys are designed to provide quarterly, as well as annual estimates. Information is provided on the use
+    of illicit drugs, alcohol, and tobacco among members of United States households aged 12 and older. Questions included age at first use as well as
+    lifetime, annual, and past-month usage for the following drug classes: marijuana, cocaine (and crack), hallucinogens, heroin, inhalants, alcohol, tobacco,
+    and nonmedical use of prescription drugs, including pain relievers, tranquilizers, stimulants, and sedatives. The survey covered substance abuse treatment
+    history and perceived need for treatment, and included questions from the Diagnostic and Statistical Manual (DSM) of Mental Disorders that allow diagnostic
+    criteria to be applied. The survey included questions concerning treatment for both substance abuse and mental health-related disorders. Respondents were
+    also asked about personal and family income sources and amounts, health care access and coverage, illegal activities and arrest record, problems resulting
+    from the use of drugs, and needle-sharing. Questions introduced in previous administrations were retained in the 2015 survey, including questions asked
+    only of respondents aged 12 to 17. These "youth experiences" items covered a variety of topics, such as neighborhood environment, illegal activities, drug
+    use by friends, social support, extracurricular activities, exposure to substance abuse prevention and education programs, and perceived adult attitudes
+    toward drug use and activities such as school work. Several measures focused on prevention-related themes in this section. Also retained were questions on
+    mental health and access to care, perceived risk of using drugs, perceived availability of drugs, driving and personal behavior, and cigar smoking.
+    Questions on the tobacco brand used most often were introduced with the 1999 survey. For the 2008 survey, adult mental health questions were added to
+    measure symptoms of psychological distress in the worst period of distress that a person experienced in the past 30 days and suicidal ideation. In 2008, a
+    split-sample design also was included to administer separate sets of questions (WHODAS vs. SDS) to assess impairment due to mental health problems.
+    Beginning with the 2009 NSDUH, however, all of the adults in the sample received only the WHODAS questions. Background information includes gender, race,
+    age, ethnicity, marital status, educational level, job status, veteran status, and current household composition.</abstract>
+      <sumDscr>
+        <timePrd event="single" date="2015">2015</timePrd>
+        <collDate event="single" date="2015">2015</collDate>
+        <nation>Please see geographic coverage.</nation>
+        <geogCover>United States</geogCover>
+        <anlyUnit>individual</anlyUnit>
+        <universe>The civilian, noninstitutionalized population of the United States aged 12 and older, including residents of noninstitutional group quarters such as college dormitories, group homes, shelters, rooming houses, and civilians dwelling on military installations.</universe>
+        <dataKind>survey data</dataKind>
+      </sumDscr>
+    </stdyInfo>
+    <method>
+      <dataColl>
+        <sampProc>A multistage area probability sample for each of the 50 states and the District of Columbia has been used since 1999.  For the 1999 through 2013 surveys, the eight states with the largest population (which together account for 48 percent of the total U.S. population aged 12 or older) were designated as large sample states (California, Florida, Illinois, Michigan, New York, Ohio, Pennsylvania, and Texas) with a target sample size of 3,600 (in the case of Florida), while the remaining 42 states and the District of Columbia had target sample sizes of 900. The 2014-2017 NSDUHs also use a coordinated sample design.  The coordinated design facilitates a 50 percent overlap in third-stage units (area segments) between each 2 successive years from 2014 through 2017.  Each design was intended to increase precision of estimates in year-to-year trend analyses because of the expected positive correlation resulting from the overlapping sample between successive survey years.
+
+The 2014 through 2017 sample design allows for a more cost-efficient sample allocation to the largest states, while maintaining sufficient sample sizes in the smaller states to support small area estimation at the state and substate levels. Compared with previous sample designs, the 2014 through 2017 sample design moves from two to essentially five state sample size groups (lumping Hawaii with the remaining states and the District of Columbia). The 2014 through 2017 surveys have a sample designed to yield 4,560 completed interviews in California; 3,300 completed interviews each in Florida, New York, and Texas; 2,400 completed interviews each in Illinois, Michigan, Ohio, and Pennsylvania; 1,500 completed interviews each in Georgia, New Jersey, North Carolina, and Virginia; 967 completed interviews in Hawaii; and 960 completed interviews in each of the remaining 37 states and the District of Columbia—for a total national target sample size of 67,507. The sample is selected from 6,000 area segments that vary in size according to state.  The change in the state sample allocation was driven by the need to increase the sample in the original 43 small states (to improve the precision of state and substate estimates in these states) while moving closer to a proportional allocation in the larger states.  The 2015 through 2017 sample design allows for a more cost-efficient sample allocation to the largest states, while maintaining sufficient sample sizes in the smaller states to support small area estimation at the state and substate levels.
+Within each state, sampling strata called state sampling regions (SSRs) were formed. Based on a composite size measure, states were partitioned geographically into roughly equal-sized regions. In other words, regions were formed such that each area yielded, in expectation, roughly the same number of interviews during each data collection period. The partitioning divided the United States into a total of 750 SSRs, resulting from 36 SSRs in California; 30 SSRs each in Florida, New York, and Texas; 24 SSRs each in Illinois, Michigan, Ohio, and Pennsylvania; 15 SSRs each in Georgia, New Jersey, North Carolina, and Virginia; and 12 SSRs each in the remaining 38 states and the District of Columbia.
+
+Similar to the 2005 through 2013 surveys, the first stage of selection for the 2014 through 2017 NSDUHs was census tracts.  The first stage of selection began with the construction of an area sample frame that contained one record for each census tract in the United States. If necessary, census tracts were aggregated within SSRs until each tract met the minimum dwelling unit (DU) requirement. In California, Florida, Georgia, Illinois, Michigan, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Texas, and Virginia, this minimum size requirement was 250 DUs in urban areas and 200 DUs in rural areas.  In the remaining states and the District of Columbia, the minimum requirement was 150 DUs in urban areas and 100 DUs in rural areas. These census tracts served as the primary sampling units (PSUs) for the coordinated 4-year sample.
+
+Before selecting census tracts, additional implicit stratification was achieved by sorting the first-stage sampling units by a CBSA/SES (core-based statistical area/socioeconomic status) indicator and by the percentage of the population who are non-Hispanic and white. From this well-ordered sample frame, 48 census tracts per SSR were selected with probabilities proportionate to a composite size measure and with minimum replacement. 
+For the second stage of selection, adjacent census block groups were collapsed as needed within selected census tracts. Compared with prior years, the selection of census block group is an additional stage of selection that was added to facilitate possible transitioning to an address-based sample (ABS) design in the future. The block groups were required to have the same minimum number of DUs as the census tracts from which they were selected (150 or 250 in urban areas and 100 or 200 in rural areas, according to state).
+Because census block groups generally exceed the minimum DU requirement, one smaller geographic area was selected within each sampled census block group. For this third stage of sampling, each selected census block group was partitioned into small geographic areas composed of adjacent census blocks. These geographic clusters of blocks are referred to as segments and are the tertiary sampling units (TSUs) for the coordinated sample design.
+The achieved sample size for the 2015 survey was 68,073 individuals.  The public use file contains 57,146 records due to a subsampling step used in the disclosure protection procedures.  There are 2,666 variables in the file.  A key step in the data processing procedures established the minimum item response requirements in order for cases to be retained for weighting and further analysis (i.e., "usable" cases). These requirements, as well as full sampling methodology, are detailed in the codebook.
+</sampProc>
+        <collMode>ACASI</collMode>
+        <weight>A multistage area probability sample for each of the 50 states and the District of Columbia has been used since 1999.  For the 1999 through 2013 surveys, the eight states with the largest population (which together account for 48 percent of the total U.S. population aged 12 or older) were designated as large sample states (California, Florida, Illinois, Michigan, New York, Ohio, Pennsylvania, and Texas) with a target sample size of 3,600 (in the case of Florida), while the remaining 42 states and the District of Columbia had target sample sizes of 900. The 2014-2017 NSDUHs also use a coordinated sample design.  The coordinated design facilitates a 50 percent overlap in third-stage units (area segments) between each 2 successive years from 2014 through 2017.  Each design was intended to increase precision of estimates in year-to-year trend analyses because of the expected positive correlation resulting from the overlapping sample between successive survey years. 
+
+The 2014 through 2017 sample design allows for a more cost-efficient sample allocation to the largest states, while maintaining sufficient sample sizes in the smaller states to support small area estimation at the state and substate levels. Compared with previous sample designs, the 2014 through 2017 sample design moves from two to essentially five state sample size groups (lumping Hawaii with the remaining states and the District of Columbia). The 2014 through 2017 surveys have a sample designed to yield 4,560 completed interviews in California; 3,300 completed interviews each in Florida, New York, and Texas; 2,400 completed interviews each in Illinois, Michigan, Ohio, and Pennsylvania; 1,500 completed interviews each in Georgia, New Jersey, North Carolina, and Virginia; 967 completed interviews in Hawaii; and 960 completed interviews in each of the remaining 37 states and the District of Columbia—for a total national target sample size of 67,507. The sample is selected from 6,000 area segments that vary in size according to state.  The change in the state sample allocation was driven by the need to increase the sample in the original 43 small states (to improve the precision of state and substate estimates in these states) while moving closer to a proportional allocation in the larger states.  The 2015 through 2017 sample design allows for a more cost-efficient sample allocation to the largest states, while maintaining sufficient sample sizes in the smaller states to support small area estimation at the state and substate levels.
+
+
+Within each state, sampling strata called state sampling regions (SSRs) were formed. Based on a composite size measure, states were partitioned geographically into roughly equal-sized regions. In other words, regions were formed such that each area yielded, in expectation, roughly the same number of interviews during each data collection period. The partitioning divided the United States into a total of 750 SSRs, resulting from 36 SSRs in California; 30 SSRs each in Florida, New York, and Texas; 24 SSRs each in Illinois, Michigan, Ohio, and Pennsylvania; 15 SSRs each in Georgia, New Jersey, North Carolina, and Virginia; and 12 SSRs each in the remaining 38 states and the District of Columbia.
+
+Similar to the 2005 through 2013 surveys, the first stage of selection for the 2014 through 2017 NSDUHs was census tracts.  The first stage of selection began with the construction of an area sample frame that contained one record for each census tract in the United States. If necessary, census tracts were aggregated within SSRs until each tract met the minimum dwelling unit (DU) requirement. In California, Florida, Georgia, Illinois, Michigan, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Texas, and Virginia, this minimum size requirement was 250 DUs in urban areas and 200 DUs in rural areas.  In the remaining states and the District of Columbia, the minimum requirement was 150 DUs in urban areas and 100 DUs in rural areas. These census tracts served as the primary sampling units (PSUs) for the coordinated 4-year sample.
+
+Before selecting census tracts, additional implicit stratification was achieved by sorting the first-stage sampling units by a CBSA/SES (core-based statistical area/socioeconomic status) indicator and by the percentage of the population who are non-Hispanic and white. From this well-ordered sample frame, 48 census tracts per SSR were selected with probabilities proportionate to a composite size measure and with minimum replacement. 
+For the second stage of selection, adjacent census block groups were collapsed as needed within selected census tracts. Compared with prior years, the selection of census block group is an additional stage of selection that was added to facilitate possible transitioning to an address-based sample (ABS) design in the future. The block groups were required to have the same minimum number of DUs as the census tracts from which they were selected (150 or 250 in urban areas and 100 or 200 in rural areas, according to state).
+Because census block groups generally exceed the minimum DU requirement, one smaller geographic area was selected within each sampled census block group. For this third stage of sampling, each selected census block group was partitioned into small geographic areas composed of adjacent census blocks. These geographic clusters of blocks are referred to as segments and are the tertiary sampling units (TSUs) for the coordinated sample design.
+The achieved sample size for the 2015 survey was 68,073 individuals. The public use file contains 57,146 records due to a subsampling step used in the disclosure protection procedures.  There are 2,666 variables in the file.  A key step in the data processing procedures established the minimum item response requirements in order for cases to be retained for weighting and further analysis (i.e., "usable" cases). These requirements, as well as full sampling methodology, are detailed in the codebook.
+</weight>
+        <cleanOps>
+          Data undergo a confidentiality review and are altered when necessary to limit the risk of disclosure. Ready-to-go data files are also routinely created along with setups in the major statistical software formats as well as standard codebooks to accompany the data. In addition to these procedures, the following processing steps for this data collection are performed:
+          <list type="bulleted">
+            <itm>Created online analysis version with question text.</itm>
+            <itm>Checked for undocumented or out-of-range codes.</itm>
+          </list>
+        </cleanOps>
+      </dataColl>
+     <notes>Data were collected and prepared for release by Research Triangle Institute, Research Triangle Park, North Carolina.</notes>
+    <notes>Since 1999, the survey sample has employed a 50-state design with an independent, multistage area probability sample for each of the 50 states and the District of Columbia.</notes>
+     <notes>Prior to the 2002 survey, this series was titled National Household Surveys on Drug Abuse.</notes>
+     <notes>Although the design of the 2015 survey is similar to the design of the 1999 through 2001 surveys, there are important methodological differences since 2002 that affect the estimates. Each NSDUH respondent since 2002 has been given an incentive payment of $30. This change resulted in an improvement in the survey response rate. In addition, in 2002 and 2011 new population data from the 2000 and 2010 decennial Censuses, respectively, became available for use in NSDUH sample weighting procedures. Therefore the data from 2002 and later should not be compared with data collected in 2001 or earlier to assess changes over time.</notes>
+     <notes>For selected variables, statistical imputation was performed following logical inference to replace missing responses. These variables are identified in the codebook as "...LOGICALLY ASSIGNED" for the logical procedure, or by the designation "IMPUTATION-REVISED" in the variable label when the statistical procedure was also performed. The names of statistically imputed variables begin with the letters "IR". For each imputation-revised variable, a corresponding imputation indicator variable indicates whether a case's value on the variable resulted from an interview response or was imputed. Missing values for some demographic variables were imputed by the unweighted hot-deck technique used in previous surveys. Beginning in 1999, imputation of missing values for most variables was accomplished using predictive mean neighborhoods (PMN), a new procedure developed specifically for this survey. Both the hot-deck and PMN imputation procedures are described in the codebook.</notes>
+     <notes>To protect the privacy of respondents, all variables that could be used to identify individuals have been encrypted or collapsed in the public use file. To further ensure respondent confidentiality, the data producer used data substitution and deletion of state identifiers and a subsample of records in the creation of the public use file.</notes>
+     <notes>Previously published estimates may not be exactly reproducible from the variables in the public use file due to the disclosure protection procedures that were implemented.</notes>
+     <notes>The setup and dictionary files for Stata are designed to be compatible with StataSE, Version 8 and later. This is a large data file requiring that approximately 400 megabytes of Random Access Memory be allocated to Stata. Operations within Stata, including conversion of the ASCII data to Stata format, are likely to be slow. Analysts may wish to download subsets of data from the SAMHDA Survey Documentation and Analysis (SDA) system for use with Stata.</notes>
+   <notes>In the income section, which was interviewer-administered, a split-sample study had been embedded within the 2006 and 2007 surveys to compare a shorter version of the income questions with a longer set of questions that had been used in previous surveys. This shorter version was adopted for the 2008 NSDUH and will be used for future NSDUHs.</notes>
+      <anlyInfo>
+        <respRate>Strategies for ensuring high rates of participation resulted in a weighted screening response rate of 81.94 percent and a weighted interview response rate for the CAI of 71.20 percent. (Note that these response rates reflect the original sample, not the subsampled data file referenced in this document.)</respRate>
+      </anlyInfo>
+    </method>
+    <dataAccs>
+      <setAvail media="online">
+        <accsPlac URI="http://doi.org/10.3886/ICPSR50011.v1">Ann Arbor, Mi.: Inter-university Consortium for Political and Social Research</accsPlac>
+      </setAvail>
+      <useStmt>
+        <specPerm>Additional special permissions, where applicable, are described in the restrictions field.</specPerm>
+        <restrctn>Users are reminded that these data are to be used solely for statistical analysis and reporting of aggregated information and not for the investigation of specific individuals or treatment facilities.</restrctn>
+        <conditions>
+          <p>AVAILABLE. This study is freely available to the general public.</p>
+        </conditions>
+        <disclaimer>The original collector of the data, ICPSR, and the relevant funding agency bear no responsibility for use of the data or for interpretations or inferences based upon such uses.</disclaimer>
+      </useStmt>
+    </dataAccs>
+  </stdyDscr>
+  <fileDscr ID="F1">
+    <fileTxt ID="Part1">
+    <fileName>National Survey on Drug Use and Health, 2015</fileName>
+    <fileType>ASCII DELIMITED DOC RDATA SAS SPSS STATA</fileType>
+    </fileTxt>
+    <notes>2144442</notes>
+  </fileDscr>
+</codeBook>
