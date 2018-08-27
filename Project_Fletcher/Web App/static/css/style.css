@@ -1,0 +1,73 @@
+/* This is my stylesheet */
+body {
+  background: #dedede;
+  color: #99999999;
+  font-size: 36pt;
+}
+
+.header{
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  font-size: 10pt;
+}
+
+.title{
+color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 90px;
+font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: left;
+}
+
+
+
+.pick button{
+  background-color: #8888EE;
+  color: white;
+  font-size: 36pt;
+  border-radius: 10px;
+}
+
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900);
+
+body {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(https://d3atagt0rnqk7k.cloudfront.net/wp-content/uploads/2015/06/12001509/cannabis-strains-for-beginners-and-lightweights.jpg);
+  background-size: cover;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+header {
+
+  top: 50%;
+  right: 80%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: right;
+}
+h1 {
+
+  margin: 0;
+  padding-left: 0;
+  font-size: 26;
+  white-space: nowrap;
+}
+p {
+  margin: 0;
+  font-size: 1.5rem;

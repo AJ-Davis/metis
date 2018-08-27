@@ -1,0 +1,74 @@
+<html>
+
+  <head>
+    <link rel='stylesheet' type='text/css' href='/static/css/style.css?4884491531318'/>
+  <head>
+
+  <body>
+    <div class="title">
+    Dankommend&euml;r.
+    </div>
+  <br>
+  <br>
+
+    <header>
+      <h1>Which strains do you like?
+        <br>
+        <form>
+      <input type="text" name="Strain1" id='Strain1'><br>
+        </form>
+        <form>
+      <input type="text" name="Strain2" id='Strain2'><br>
+        </form>
+        <form>
+      <input type="text" name="Strain3" id='Strain3'><br>
+        </form>
+      </h1>
+
+  </header>
+
+      <div>
+        <button id="submit">Get Recommendation</button>
+      </div>
+
+      <div>
+        Your recommended strain is <span id="rec_strains"></span> <b></span></b>:
+      </div>
+
+      </div>
+  </body>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>
+
+    $('#submit').click( () => { cool(); } );
+
+    function cool(){
+
+      let strains_dict = {
+        'Strain1': $('#Strain1').val(),
+        'Strain2': $('#Strain2').val(),
+        'Strain3': $('#Strain3').val()
+
+      }
+      console.log(strains_dict);
+
+      $.ajax({
+        type: "POST",
+        contentType: "application/json; charset=utf-8",
+        url: "/recommender",  // Replace with URL of POST handler
+        dataType: "json",
+        async: true,
+        data: JSON.stringify(strains_dict),
+        success: (result) => {
+          $('#rec_strains').html(result['rec']);
+        },
+        error: (result) => {
+          alert('I dunno what you did');
+        }
+      })
+
+    }
+
+    </script>
+
+</html>
